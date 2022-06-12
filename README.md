@@ -9,4 +9,4 @@
 * It is based on html, css, and javaScript. 
 * For data storage is used localStorage. 
 * It requires no sensitive data.
-Enjoy of using ;)
+**Enjoy of using ;)
