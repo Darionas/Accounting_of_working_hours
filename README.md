@@ -6,7 +6,7 @@
 * It lets make a copy of data in .txt file format.
 * It lets delete all data or by one row as well.
 * It lets edit table row by one by clicking on desire table row.
-* It is based on html, css, and javaScript. 
+* It is based on html, css, and javaScript (jQuery). 
 * For data storage is used localStorage. 
 * It requires no sensitive data.
 **Enjoy of using ;)
