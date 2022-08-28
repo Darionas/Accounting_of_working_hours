@@ -1,0 +1,51 @@
+body {margin-left: 12px;}
+
+.ban {
+  margin: 25px;
+  width: 90px;
+  height: auto;
+  border-radius: 7px;
+  background-color: white;
+}
+
+.re {margin-right: 5px;}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+table {width: 50%;}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 7px;
+}
+
+.tbl {width: 97%; margin: auto;}
+
+.thbl {border-style: none;}
+
+#workForm {float: left;}
+
+footer {
+  background-color: darkslategrey;
+  padding-bottom: 6px;
+  margin-left: -12px;
+  text-align: center;
+}
+
+#scroll {
+  float: right; 
+  margin-right: 150px; 
+  width: 55%;
+  height: 1000px;
+  border: 1px solid black;
+  overflow-x: hidden;
+  overflow-y: auto;
+  background-color:antiquewhite;
+}
+
+.in {display: inline-block;}
