@@ -1,4 +1,5 @@
 # Accounting_of_working_hours
+* It is adupted just for desktop screen.
 * It lets accounting for individual working hours.
 * It provides filtering by date.
 * It provides sum of hours for total projects and for filtered projects as well.
