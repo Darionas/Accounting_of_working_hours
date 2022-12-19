@@ -8,6 +8,6 @@
 * It lets delete all data or by one row as well.
 * It lets edit table row by one by clicking on desirable table row.
 * It is based on html, css, and javaScript (jQuery). 
-* For data storage is used localStorage. 
+* For data storage is used 5 MB localStorage. 
 * It requires no sensitive data.
 **Enjoy of using ;)
